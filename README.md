@@ -1,7 +1,7 @@
-nfsdb-streams
+nfsdb-stream
 =============
 
-Java 8 Streams implementation for NFSdb
+Java 8 Stream implementation for NFSdb
 
 
 There are some interesting examples of how to use NFSdb with Stream. It is quite easy as it turned out.
