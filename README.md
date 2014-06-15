@@ -25,6 +25,6 @@ from MarketQuote
 group by symbol
 ```
 
-Java version takes 536ms over 10,000,000 records.
+Java version takes 1.2s over 10,000,000 records.
 
 Jump [here] (https://github.com/NFSdb/nfsdb-stream/tree/master/src/test/java/com/nfsdb/stream/examples) for working examples.
