@@ -1,4 +1,4 @@
-nfsdb-stream
+nfsdb-stream [![Build Status](https://secure.travis-ci.org/NFSdb/nfsdb-stream.png?branch=master)](http://travis-ci.org/NFSdb/nfsdb-stream)
 =============
 
 Java 8 Stream implementation for NFSdb
